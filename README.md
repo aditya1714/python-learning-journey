@@ -16,7 +16,7 @@ A structured record of my Python learning from the **Code With Harry tutorial se
 | Functions | ✔ Completed |
 | Dictionaries & Sets | ✔ Completed |
 | File Handling | ✔ Completed |
-| OOP (Classes) | ❍ Coming Soon |
+| OOP (Classes) | ✔ Completed  |
 | Projects | 🚧 Will build later |
 
 **Total Progress:** 8/13 Chapters Completed (61%)
