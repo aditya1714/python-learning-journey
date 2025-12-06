@@ -1,0 +1,5 @@
+a = "J.P. Morgan, one of the most influential figures in American financial history, played a defining role in shaping modern banking and corporate structure. Known for his sharp intellect, bold decision-making, and unmatched financial authority, he helped stabilize the U.S. economy during moments of crisis by organizing bailouts and consolidating major industries. His firm, which later evolved into JPMorgan Chase, became a symbol of financial power and innovation. Morgan believed in efficiency, discipline, and scale—values that drove him to restructure railroads, support industrial giants, and build systems that laid the foundation for today’s global financial markets. Even decades after his death, the legacy of J.P. Morgan remains deeply embedded in the world of finance."
+
+f = open("Lecture Code/Para.txt", "w")
+f.write(a)
+f.close()
