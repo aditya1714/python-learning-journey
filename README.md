@@ -98,7 +98,7 @@ Python/
 - Looping (for, while, break, continue)
 - Functions (def, parameters, return, recursion)
 - File Handling 
-- Object-Oriented Programming (Soon)
+- Object-Oriented Programming 
 
 ---
 
